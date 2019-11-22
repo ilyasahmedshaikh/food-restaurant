@@ -4,6 +4,7 @@ body
     overflow-x: hidden !important;
     margin: 0;
 }
+/* sign in styling start --------------------------------------------------------------- */
 
 .back-img
 {
@@ -40,3 +41,14 @@ p
 {
     color: #ffffff !important;
 }
+/* sign in styling end --------------------------------------------------------------- */
+
+
+/* sign up styling start --------------------------------------------------------------- */
+
+.text-muted
+{
+    color: #ffffff!important;
+}
+
+/* sign up styling end --------------------------------------------------------------- */
