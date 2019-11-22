@@ -56,9 +56,24 @@ p
     background-color: #2f2d2d;
     background-blend-mode: soft-light;
 }
+
 .text-muted
 {
     color: #ffffff!important;
+}
+
+/* sign up styling end --------------------------------------------------------------- */
+
+/* sign up styling start --------------------------------------------------------------- */
+
+form.text-center.border.border-light.p-5
+{
+    transform: translate(0%, 14%);
+}
+
+p
+{
+    padding-top: 15px;
 }
 
 /* sign up styling end --------------------------------------------------------------- */
